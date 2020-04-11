@@ -8,5 +8,10 @@ public class Utility {
 	{
 		return new Date();
 	}
+	
+	public void dummy()
+	{
+		System.out.println("===dummy() method===");
+	}
 
 }
