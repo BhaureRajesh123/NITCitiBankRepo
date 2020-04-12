@@ -19,6 +19,11 @@ public class Utility {
 		System.out.println("m1");
 	}
 	
+	public void m4()
+	{
+		System.out.println("m4");
+	}
+	
 	
 
 }
