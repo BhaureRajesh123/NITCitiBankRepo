@@ -13,5 +13,12 @@ public class Utility {
 		System.out.println("===dummy() method=== 1234");
 		System.out.println("===dummy() method===abcd");      
 	}
+	
+	public void m1()
+	{
+		System.out.println("m1");
+	}
+	
+	
 
 }
